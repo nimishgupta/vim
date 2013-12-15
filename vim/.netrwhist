@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/media/work/JSProf/client'
+let g:netrw_dirhist_2='/home/nimish/Public/tests/suite/benchmarksgame'
+let g:netrw_dirhist_3='/media/work/JSProf/test/suite/benchmarksgame'
+let g:netrw_dirhist_4='/home/nimish/ocaml/frenetic'
+let g:netrw_dirhist_5='/home/nimish/ocaml/templates/examples/templates'
+let g:netrw_dirhist_6='/home/nimish/remodel'
+let g:netrw_dirhist_7='/home/nimish/ocaml'
+let g:netrw_dirhist_8='/media/work/PL_Assignments/Ass2'
